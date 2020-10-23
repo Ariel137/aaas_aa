@@ -104,3 +104,47 @@ padding:10px;
 	</div>
 	</body>
 </html>
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Benefits section</title>
+		<link href="style.css" rel="stylesheet" type>
+		<style>
+		table{
+		width:400px;
+		}
+		th{
+		text-align:left;
+		border-spacing: 400px;
+		}
+		table,th,td{
+		border:1px solid#000;
+		}
+		</style>
+		</head>
+	<body>
+	<h1> The Perfect Travel</h1>
+	<table border = "1">
+	</tr>
+	<tr>
+	<td> <img src= "travel.jpg" height="50" width="50"</td>
+	<td>Travel</td>
+	<td>looking for some beautiful places? In our Website you can search for anyplace you wanted to go to.</td>
+	</tr>
+	<tr>
+	<td><img src="hotel.jpg" height="50" width="50"</td>
+	<td> Hotels</td>
+	<td> No places to stay in? In our website we have a hotels partner where you can check in with a very affordable prices</td>
+	</tr>
+	<tr>
+	<td> <img src="airplane.jpg" height="50" width="50"</td>
+	<td> Plane</td>
+	<td> Looking for affordable ticket for traveling? choose our airline partners.
+	<hr></hr>
+	<h2> 
+	</table>
+	</body>
+</html>
